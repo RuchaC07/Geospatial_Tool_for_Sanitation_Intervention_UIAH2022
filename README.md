@@ -1,31 +1,45 @@
+# Geospatial Tool for Sanitation Intervention UIAH2022
 
-# How to create a multi-page streamlit web app
-From `streamlit version 1.10` onwards, you can now create native streamlit multipage web apps. In this tutorial, I will walk you through an example of how to develop such a streamlit multipage web app. In particular, I will show you how to add multiple pages, including favicons and how to use the streamlit session state to share variables/values between pages.<br/>
-To follow along, ensure to use the latest streamlit version by running `pip install streamlit --upgrade`<br/><br/>
-👉 Also, check out the official streamlit documentation: https://docs.streamlit.io/library/get-started/multipage-apps/create-a-multipage-app
+## Overview
+An predictive decision support tool that leverages **geospatial data** to recommend optimal **sanitation techniques** across diverse terrains. It integrates **regional environmental and demographic datasets** to deliver data-driven, location-specific, and sustainable sanitation insights. This is a crucial problem statement for both the countries, India and Africa.
 
-## Video Tutorial
-[![YouTube Video](https://img.youtube.com/vi/YClmpnpszq8/0.jpg)](https://youtu.be/YClmpnpszq8)
+## Key Features
+- Predictive model for sanitation recommendation  
+- Integration of regional and geospatial datasets  
+- Interactive visualization using Streamlit and Plotly  
+- Google Sheets connectivity for live data retrieval  
 
-## Requirements
-Install the dependecies with pip
-```
-streamlit==1.11.0
-```
+## Tech Stack
+**Python | Streamlit | Altair | Plotly | OpenPyXL | GSheetsDB**
+
+## Installation
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/<your-username>/sanitation-decision-tool.git
+   cd sanitation-decision-tool
+   ```
+
+2. Install dependencies:  
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+   **requirements.txt**
+   ```
+   streamlit==1.11.0
+   altair<5
+   plotly
+   gsheetsdb
+   openpyxl
+   ```
+
+3. Run the Streamlit app:  
+   ```bash
+   streamlit run app.py
+   ```
 
 ## Usage
-```python
-# [Vanilla Terminal] Run the application
-streamlit run 1_🤓_Homepage.py
-```
+Upload your regional dataset or connect via Google Sheets to generate AI-driven sanitation recommendations and visualize suitability maps interactively, here the dataset is used from kaggle and information is taken form ArcGIS.
 
-## About Me
-- Sven from Coding Is Fun
-- YouTube: https://youtube.com/c/CodingIsFun
-- Website: https://pythonandvba.com
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X47Q0EG)
-
-## Feedback
-If you have any feedback, please reach out to me at contact@pythonandvba.com
-![Logo](https://www.pythonandvba.com/banner-img)
+## Author
+**Rucha Rangnath Choudhari**  
