@@ -1,0 +1,288 @@
+CODE,Population,Buildings number,area (in km2),Population Density,Building Density,Building Type,Planned,Slums,More than 4 floors,Polluting Industry,Economic Vulnerability,Drainage coverage and Typology,SANITATION TECH
+1001,801,70,100,8.01,0.70,Residential,0,0,0,1,critical,Pucca drain and uncovered,DEWATS
+1003,800,80,95,8.42,0.84,Residential,1,1,1,1,non critical,Katcha drain,SewerageS
+1005,802,75,140,5.73,0.54,Residential,1,0,1,0,critical,Covered pucca drain,FSM
+1007,803,77,190,4.23,0.41,Residential,0,0,0,1,critical,Pucca drain ,SewerageS
+1009,200,25,123,1.63,0.20,Residential,1,1,0,1,critical,Unserved area,DEWATS
+1011,50,9,230,0.22,0.04,Office,0,0,1,0,non critical,Pucca drain and uncovered,DEWATS
+1013,100,12,79,1.27,0.15,Residential,1,0,0,0,critical,Covered pucca drain,Sewerage/ FSM
+1015,300,31,170,1.76,0.18,Education centre,1,1,0,0,critical,Katcha drain,Sewerage/DEWATS
+1017,600,70,180,3.33,0.39,Commercial,1,0,1,0,non critical,Covered pucca drain,FSM
+1019,1000,90,235,4.26,0.38,Residential,0,1,0,1,critical,Unserved area,DEWATS
+1021,2000,160,340,5.88,0.47,Residential,0,0,1,0,critical,Pucca drain and uncovered,DEWATS
+1023,3000,280,420,7.14,0.67,Residential,1,1,1,0,critical,Katcha drain,Sewerage/DEWATS
+1025,4000,370,563,7.10,0.66,Residential,0,0,1,1,non critical,Pucca drain ,SewerageS
+1027,5000,456,668,7.49,0.68,Residential,1,1,1,1,non critical,Unserved area,DEWATS
+1029,15,2,1.62,9.27,1.17,Education centre,0,1,1,1,critical,Katcha drain,FSM
+1031,36,5,3.88,9.27,1.17,Residential,1,1,1,0,critical,Katcha drain,DEWATS
+1033,44,6,4.75,9.27,1.17,Office,1,1,1,1,critical,Katcha drain,SewerageS
+1035,19,2,2.05,9.27,1.17,Office,1,1,1,1,non critical,Unserved area,FSM
+1037,29,4,3.13,9.27,1.17,Residential,0,1,0,0,critical,Katcha drain,DEWATS
+1039,42,5,4.53,9.27,1.17,Commercial,1,0,0,1,non critical,Pucca drain and uncovered,Sewerage/DEWATS
+1041,56,7,6.04,9.27,1.17,Residential,0,0,0,0,critical,Covered pucca drain,Sewerage/ FSM
+1043,81,10,9.38,8.64,1.09,Education centre,1,0,0,1,critical,Pucca drain and uncovered,Sewerage/DEWATS
+1045,49,6,5.67,8.64,1.09,Residential,1,1,0,0,non critical,Katcha drain,DEWATS
+1047,80,10,9.26,8.64,1.09,Residential,0,0,1,0,non critical,Pucca drain and uncovered,DEWATS
+1049,14,2,1.62,8.64,1.09,Residential,1,1,0,1,Insecured land tenure,Unserved area,SewerageS
+1051,72,9,8.33,8.64,1.09,Education centre,0,0,1,0,critical,Covered pucca drain,DEWATS
+1053,93,10,10.76,8.64,0.90,Residential,1,0,0,0,critical,Pucca drain and uncovered,DEWATS
+1055,120,13,13.89,8.64,0.90,Office,0,1,1,0,non critical,Katcha drain,FSM
+1057,163,17,18.87,8.64,0.90,Residential,0,0,0,1,critical,Covered pucca drain,DEWATS
+1059,189,20,21.88,8.64,0.90,Residential,0,0,1,0,non critical,Pucca drain and uncovered,Sewerage/DEWATS
+1061,102,11,11.81,8.64,0.90,Education centre,0,0,0,1,Insecured land tenure,Covered pucca drain,DEWATS
+1063,33,3,3.82,8.64,0.90,Commercial,1,1,1,1,non critical,Katcha drain,DEWATS
+1065,99,10,11.46,8.64,0.90,Residential,0,0,1,1,non critical,Pucca drain and uncovered,SewerageS
+1067,11,2,1.27,8.64,1.31,Commercial,1,1,1,0,critical,Katcha drain,FSM
+1069,88,13,10.19,8.64,1.31,Residential,1,0,0,1,critical,Pucca drain and uncovered,SewerageS
+1071,22,3,2.55,8.64,1.31,Education centre,1,1,1,0,non critical,Unserved area,SewerageS
+1073,44,7,5.09,8.64,1.31,Residential,1,0,1,1,Insecured land tenure,Covered pucca drain,SewerageS
+1075,77,12,8.91,8.64,1.31,Commercial,0,0,0,0,non critical,Pucca drain and uncovered,FSM
+1077,55,8,6.37,8.64,1.31,Education centre,1,0,0,1,Insecured land tenure,Covered pucca drain,FSM
+1079,66,10,7.12,9.27,1.41,Residential,0,0,0,0,non critical,Pucca drain and uncovered,DEWATS
+1081,220,30,23.73,9.27,1.25,Residential,1,0,1,1,critical,Covered pucca drain,Sewerage/ FSM
+1083,246,35,26.54,9.27,1.30,Residential,0,1,0,0,non critical,Katcha drain,FSM
+1085,271,32,29.23,9.27,1.09,Education centre,0,1,1,0,non critical,Unserved area,DEWATS
+1087,326,47,35.17,9.27,1.34,Office,1,1,1,0,Insecured land tenure,Katcha drain,FSM
+1089,380,53,40.99,9.27,1.28,Residential,1,1,0,0,critical,Katcha drain,DEWATS
+1091,349,58,37.65,9.27,1.53,Commercial,1,1,1,1,non critical,Unserved area,Sewerage/ FSM
+1093,520,74,56.09,9.27,1.32,Residential,0,1,0,1,non critical,Katcha drain,Sewerage/DEWATS
+1095,579,91,62.46,9.27,1.46,Education centre,1,0,1,0,non critical,Pucca drain and uncovered,FSM
+1097,634,100,68.39,9.27,1.46,Education centre,0,1,1,1,non critical,Katcha drain,DEWATS
+1099,816,128,88.03,9.27,1.46,Residential,1,0,0,1,Insecured land tenure,Covered pucca drain,Sewerage/DEWATS
+1101,952,149,102.70,9.27,1.46,Residential,0,1,1,1,critical,Unserved area,Sewerage/DEWATS
+1103,1528,240,164.83,9.27,1.46,Commercial,1,0,0,1,non critical,Pucca drain and uncovered,DEWATS
+1105,2349,369,253.40,9.27,1.46,Residential,0,1,0,0,non critical,Katcha drain,DEWATS
+1107,4218,662,455.02,9.27,1.46,Education centre,1,1,0,1,Insecured land tenure,Katcha drain,Sewerage/ FSM
+1109,3496,549,377.13,9.27,1.46,Residential,0,1,1,1,critical,Katcha drain,Sewerage/ FSM
+1111,10951,1719,1181.34,9.27,1.46,Commercial,1,0,1,1,non critical,Pucca drain and uncovered,SewerageS
+1113,8357,1312,901.51,9.27,1.46,Residential,0,0,1,1,non critical,Covered pucca drain,Sewerage/DEWATS
+1115,7349,1154,792.77,9.27,1.46,Residential,1,0,0,1,Insecured land tenure,Pucca drain and uncovered,Sewerage/ FSM
+1117,6891,1082,743.37,9.27,1.46,Education centre,1,1,0,1,non critical,Unserved area,Sewerage/DEWATS
+1119,6963,34,1368,5.09,0.02,Residential ,0,0,0,1,Insecured land tenure,Katcha drain,DEWATS
+1121,13757,74,567,24.26,0.13,Commercials,1,0,1,1,Insecured land tenure,Covered pucca drain,Sewerage/DEWATS
+1123,19892,338,1441,13.80,0.23,Office,1,0,1,0,Insecured land tenure,Unserved area,Sewerage/DEWATS
+1125,16865,1795,95,177.53,18.89,Office,1,0,1,1,non critical,Covered pucca drain,Sewerage/ FSM
+1127,454,1276,579,0.78,2.20,Education centre,1,0,1,0,Critical ,Unserved area,DEWATS
+1129,8383,1732,1327,6.32,1.31,Education centre,1,0,1,0,non critical,Covered pucca drain,FSM
+1131,13604,1745,417,32.62,4.18,Commercials,0,1,0,1,Insecured land tenure,Katcha drain,Sewerage/DEWATS
+1133,9875,1585,1470,6.72,1.08,Office,1,1,1,1,Insecured land tenure,Pucca drain and uncovered ,FSM
+4001,9456,1825,461,20.51,3.96,Education centre,1,1,0,0,Critical ,Covered pucca drain,FSM
+4003,4071,6,1176,3.46,0.01,Office,1,0,1,0,Critical ,Covered pucca drain,DEWATS
+4005,16318,852,1108,14.73,0.77,Education centre,1,1,1,0,Critical ,Katcha drain,SewerageS
+4007,4896,963,797,6.14,1.21,Education centre,0,1,1,0,non critical,Covered pucca drain,Sewerage/DEWATS
+4009,10155,1960,774,13.12,2.53,Office,1,1,0,0,Insecured land tenure,Unserved area,SewerageS
+4011,8857,421,1702,5.20,0.25,Commercials,0,0,1,0,non critical,Unserved area,SewerageS
+4012,9173,195,627,14.63,0.31,Commercials,0,1,0,0,Critical ,Pucca drain and uncovered ,Sewerage/DEWATS
+4013,5838,396,1941,3.01,0.20,Education centre,0,0,1,1,non critical,Katcha drain,FSM
+4015,10885,1906,1542,7.06,1.24,Office,1,1,0,1,Insecured land tenure,Katcha drain,DEWATS
+4017,11900,1942,344,34.59,5.65,Residential ,1,1,0,0,Insecured land tenure,Pucca drain and uncovered ,Sewerage/ FSM
+4019,11736,605,308,38.10,1.96,Education centre,1,1,0,1,non critical,Katcha drain,DEWATS
+4021,7510,1872,1341,5.60,1.40,Education centre,1,1,0,0,Critical ,Pucca drain and uncovered ,DEWATS
+4023,19154,1171,1864,10.28,0.63,Education centre,1,0,1,1,Critical ,Pucca drain and uncovered ,FSM
+4025,2634,1444,1173,2.25,1.23,Commercials,1,0,1,1,non critical,Unserved area,Sewerage/ FSM
+4027,18466,357,1869,9.88,0.19,Office,1,0,0,0,Critical ,Katcha drain,FSM
+5001,17620,12,284,62.04,0.04,Office,1,1,1,0,Critical ,Unserved area,DEWATS
+5003,2763,944,1244,2.22,0.76,Education centre,1,0,1,0,Critical ,Unserved area,DEWATS
+5005,1423,1119,1215,1.17,0.92,Education centre,1,0,1,1,non critical,Unserved area,Sewerage/DEWATS
+5007,4679,1190,775,6.04,1.54,Residential ,0,0,0,1,Insecured land tenure,Katcha drain,SewerageS
+5009,8022,1765,37,216.81,47.70,Residential ,1,1,1,0,Insecured land tenure,Katcha drain,Sewerage/DEWATS
+5011,11295,461,846,13.35,0.54,Office,1,1,1,0,Critical ,Katcha drain,Sewerage/DEWATS
+5013,7831,160,1442,5.43,0.11,Education centre,0,0,0,0,Critical ,Unserved area,Sewerage/DEWATS
+5015,13247,178,1804,7.34,0.10,Residential ,0,0,1,0,non critical,Pucca drain and uncovered ,FSM
+5017,14252,311,21,678.67,14.81,Commercials,0,0,0,0,Insecured land tenure,Katcha drain,DEWATS
+5019,4229,1424,1296,3.26,1.10,Office,1,0,0,1,non critical,Katcha drain,FSM
+5021,9225,1012,1545,5.97,0.66,Residential ,0,0,0,0,Critical ,Covered pucca drain,DEWATS
+5023,12973,642,363,35.74,1.77,Education centre,1,0,1,0,Insecured land tenure,Pucca drain and uncovered ,SewerageS
+5025,8207,1335,608,13.50,2.20,Commercials,0,0,1,1,Insecured land tenure,Covered pucca drain,FSM
+5027,1344,1007,1854,0.72,0.54,Commercials,1,0,1,0,non critical,Unserved area,DEWATS
+5029,12944,145,1111,11.65,0.13,Education centre,0,0,0,1,non critical,Covered pucca drain,FSM
+5031,11154,1859,1161,9.61,1.60,Residential ,1,1,0,1,Insecured land tenure,Pucca drain and uncovered ,Sewerage/ FSM
+5033,8550,586,870,9.83,0.67,Office,1,0,1,0,non critical,Covered pucca drain,DEWATS
+5035,2422,826,1432,1.69,0.58,Education centre,0,1,0,1,non critical,Katcha drain,SewerageS
+5037,8447,1498,1013,8.34,1.48,Education centre,1,1,1,0,non critical,Katcha drain,Sewerage/DEWATS
+5039,9284,713,903,10.28,0.79,Residential ,1,1,0,0,Insecured land tenure,Unserved area,FSM
+5041,5916,940,1298,4.56,0.72,Residential ,0,1,1,0,Insecured land tenure,Katcha drain,FSM
+5043,14039,1966,1208,11.62,1.63,Office,1,0,0,1,Insecured land tenure,Unserved area,Sewerage/ FSM
+5045,1724,733,228,7.56,3.21,Commercials,0,0,1,1,Insecured land tenure,Covered pucca drain,Sewerage/ FSM
+5047,8620,918,1623,5.31,0.57,Office,1,1,1,1,non critical,Pucca drain and uncovered ,Sewerage/DEWATS
+5049,11981,1517,648,18.49,2.34,Commercials,1,1,1,0,Insecured land tenure,Pucca drain and uncovered ,Sewerage/ FSM
+5051,13701,275,1317,10.40,0.21,Commercials,1,0,0,1,non critical,Pucca drain and uncovered ,DEWATS
+5053,15149,1881,1187,12.76,1.58,Commercials,1,1,1,0,non critical,Unserved area,FSM
+5055,12179,47,1407,8.66,0.03,Education centre,1,0,0,0,Critical ,Unserved area,Sewerage/ FSM
+5057,8129,1539,441,18.43,3.49,Residential ,0,0,0,0,non critical,Katcha drain,SewerageS
+5059,10772,1224,111,97.05,11.03,Office,1,0,0,0,Critical ,Pucca drain and uncovered ,Sewerage/DEWATS
+5061,6685,973,495,13.51,1.97,Education centre,1,1,1,1,non critical,Katcha drain,Sewerage/DEWATS
+5063,13564,1839,793,17.10,2.32,Residential ,0,1,1,0,Critical ,Katcha drain,DEWATS
+5065,6038,878,1540,3.92,0.57,Office,1,1,0,1,Critical ,Covered pucca drain,Sewerage/ FSM
+5067,13168,145,1960,6.72,0.07,Education centre,0,0,0,0,Critical ,Unserved area,SewerageS
+5069,4540,856,1791,2.53,0.48,Office,0,0,1,1,Insecured land tenure,Covered pucca drain,SewerageS
+5071,759,361,1494,0.51,0.24,Office,1,0,1,0,Critical ,Unserved area,Sewerage/ FSM
+5073,16527,1029,1911,8.65,0.54,Commercials,0,1,0,0,non critical,Unserved area,FSM
+5075,1848,114,1010,1.83,0.11,Residential ,0,0,1,1,non critical,Pucca drain and uncovered ,Sewerage/ FSM
+5077,824,416,1333,0.62,0.31,Office,1,0,1,0,non critical,Covered pucca drain,DEWATS
+5079,537,1109,824,0.65,1.35,Residential ,1,1,0,0,non critical,Unserved area,Sewerage/ FSM
+5081,10579,1484,675,15.67,2.20,Commercials,0,1,1,1,non critical,Katcha drain,FSM
+5083,7579,1498,381,19.89,3.93,Office,0,1,0,1,non critical,Covered pucca drain,SewerageS
+5085,15326,1111,67,228.75,16.58,Office,0,0,1,0,non critical,Pucca drain and uncovered ,FSM
+5087,7670,721,408,18.80,1.77,Education centre,0,0,0,0,Critical ,Katcha drain,SewerageS
+5089,2405,1581,657,3.66,2.41,Residential ,1,0,0,0,non critical,Pucca drain and uncovered ,SewerageS
+5091,15631,1858,1128,13.86,1.65,Residential ,1,0,0,0,Insecured land tenure,Unserved area,Sewerage/DEWATS
+5093,11520,1315,1284,8.97,1.02,Office,1,1,0,1,Critical ,Katcha drain,SewerageS
+5095,14120,1043,1728,8.17,0.60,Residential ,1,0,0,1,non critical,Katcha drain,SewerageS
+5097,2801,1594,1029,2.72,1.55,Office,0,0,1,0,Critical ,Pucca drain and uncovered ,SewerageS
+5099,19642,161,295,66.58,0.55,Commercials,1,1,1,0,non critical,Pucca drain and uncovered ,Sewerage/ FSM
+5101,16349,1177,1073,15.24,1.10,Education centre,0,0,1,1,Critical ,Pucca drain and uncovered ,DEWATS
+5103,6561,408,296,22.17,1.38,Residential ,0,0,1,0,Critical ,Katcha drain,SewerageS
+5105,12538,872,308,40.71,2.83,Residential ,0,1,0,1,non critical,Unserved area,FSM
+5107,2140,1316,1068,2.00,1.23,Office,1,0,0,0,non critical,Katcha drain,DEWATS
+5109,18555,1757,63,294.52,27.89,Commercials,0,1,1,1,non critical,Unserved area,DEWATS
+5111,2509,1546,1474,1.70,1.05,Residential ,1,1,1,1,non critical,Covered pucca drain,DEWATS
+5113,8957,669,309,28.99,2.17,Office,0,1,0,1,Critical ,Covered pucca drain,SewerageS
+5115,17501,744,742,23.59,1.00,Commercials,1,1,0,0,Insecured land tenure,Unserved area,FSM
+5117,7772,1967,1735,4.48,1.13,Commercials,1,1,1,1,Insecured land tenure,Katcha drain,FSM
+5119,4274,516,1797,2.38,0.29,Education centre,1,0,1,0,Critical ,Covered pucca drain,SewerageS
+5121,18180,1448,1010,18.00,1.43,Education centre,0,1,1,1,Critical ,Unserved area,SewerageS
+5123,15073,644,871,17.31,0.74,Commercials,1,0,0,0,Critical ,Katcha drain,SewerageS
+5125,7663,1435,1887,4.06,0.76,Office,1,0,0,0,Critical ,Covered pucca drain,Sewerage/DEWATS
+5127,5219,1025,1340,3.89,0.76,Education centre,0,1,0,1,Critical ,Covered pucca drain,Sewerage/DEWATS
+5129,14676,1289,52,282.23,24.79,Commercials,0,1,0,0,non critical,Unserved area,Sewerage/ FSM
+5131,6152,1516,726,8.47,2.09,Office,0,1,0,0,non critical,Katcha drain,Sewerage/ FSM
+5133,17815,185,747,23.85,0.25,Commercials,1,0,0,1,non critical,Covered pucca drain,FSM
+5135,3916,753,57,68.70,13.21,Residential ,0,1,0,1,Insecured land tenure,Katcha drain,Sewerage/DEWATS
+5137,8282,1863,1614,5.13,1.15,Education centre,0,0,0,0,Critical ,Unserved area,FSM
+5139,19648,933,172,114.23,5.42,Commercials,0,0,0,1,Critical ,Covered pucca drain,SewerageS
+5141,19288,1956,1784,10.81,1.10,Commercials,0,0,1,1,Insecured land tenure,Unserved area,Sewerage/ FSM
+5143,12277,991,40,306.93,24.78,Residential ,0,0,0,1,non critical,Katcha drain,SewerageS
+5145,2451,218,1242,1.97,0.18,Education centre,0,1,1,0,Insecured land tenure,Katcha drain,DEWATS
+5147,15936,1778,1216,13.11,1.46,Residential ,1,0,0,1,non critical,Pucca drain and uncovered ,Sewerage/DEWATS
+5149,10564,1907,744,14.20,2.56,Office,1,0,0,0,Insecured land tenure,Pucca drain and uncovered ,FSM
+6001,3734,1200,125,29.87,9.60,Residential ,0,1,0,1,non critical,Covered pucca drain,FSM
+6003,3436,900,1929,1.78,0.47,Residential ,0,0,1,1,Critical ,Covered pucca drain,SewerageS
+6005,14371,1109,1423,10.10,0.78,Office,0,0,1,1,Critical ,Katcha drain,DEWATS
+6007,2612,1588,1944,1.34,0.82,Education centre,0,0,1,1,Critical ,Covered pucca drain,DEWATS
+6009,5825,1425,1024,5.69,1.39,Residential ,0,0,0,0,Critical ,Unserved area,FSM
+6011,4252,242,822,5.17,0.29,Residential ,0,0,1,1,Critical ,Pucca drain and uncovered ,Sewerage/DEWATS
+6013,5503,758,476,11.56,1.59,Office,1,1,1,1,Critical ,Katcha drain,DEWATS
+6015,11531,1644,1479,7.80,1.11,Office,1,0,0,0,Insecured land tenure,Katcha drain,Sewerage/ FSM
+6017,2891,152,240,12.05,0.63,Commercials,0,0,1,0,Critical ,Pucca drain and uncovered ,Sewerage/DEWATS
+6019,15356,984,1384,11.10,0.71,Residential ,1,0,1,0,Insecured land tenure,Pucca drain and uncovered ,Sewerage/ FSM
+6021,2111,1660,1376,1.53,1.21,Residential ,1,0,0,0,non critical,Pucca drain and uncovered ,FSM
+6023,14956,1375,1610,9.29,0.85,Commercials,1,1,1,1,Critical ,Unserved area,Sewerage/DEWATS
+6025,16911,1680,1468,11.52,1.14,Office,0,1,1,1,non critical,Unserved area,Sewerage/DEWATS
+6027,1671,365,859,1.95,0.42,Education centre,1,1,0,0,non critical,Unserved area,Sewerage/DEWATS
+6029,12697,836,958,13.25,0.87,Office,1,0,0,1,Critical ,Covered pucca drain,Sewerage/ FSM
+6031,9457,1322,1756,5.39,0.75,Residential ,0,0,0,0,Insecured land tenure,Covered pucca drain,FSM
+6033,19063,1979,1713,11.13,1.16,Residential ,1,0,0,1,non critical,Pucca drain and uncovered ,DEWATS
+6035,15023,551,1746,8.60,0.32,Education centre,0,1,0,1,Insecured land tenure,Covered pucca drain,Sewerage/DEWATS
+6037,2851,1226,1755,1.62,0.70,Office,0,1,0,0,non critical,Pucca drain and uncovered ,DEWATS
+6039,11803,848,1995,5.92,0.43,Office,0,1,1,1,Insecured land tenure,Covered pucca drain,DEWATS
+6041,4087,64,707,5.78,0.09,Office,1,1,1,1,non critical,Pucca drain and uncovered ,DEWATS
+6043,6866,1483,1277,5.38,1.16,Office,1,1,0,0,Critical ,Unserved area,DEWATS
+6045,18002,1984,49,367.39,40.49,Commercials,0,0,1,0,Insecured land tenure,Covered pucca drain,DEWATS
+6047,2541,1390,363,7.00,3.83,Commercials,0,0,1,1,Insecured land tenure,Covered pucca drain,Sewerage/ FSM
+6049,12477,1275,1885,6.62,0.68,Residential ,1,1,1,0,non critical,Covered pucca drain,FSM
+6051,15382,60,676,22.75,0.09,Commercials,1,1,1,1,Insecured land tenure,Katcha drain,DEWATS
+6053,10954,678,10,1095.40,67.80,Office,1,0,1,1,Insecured land tenure,Katcha drain,Sewerage/DEWATS
+6055,8209,1314,281,29.21,4.68,Office,0,1,0,0,Insecured land tenure,Covered pucca drain,SewerageS
+6057,18619,1006,1552,12.00,0.65,Residential ,0,1,0,0,Critical ,Katcha drain,DEWATS
+6059,5342,917,1978,2.70,0.46,Office,1,1,1,1,non critical,Katcha drain,DEWATS
+6061,11456,663,1968,5.82,0.34,Education centre,1,1,0,0,Critical ,Katcha drain,SewerageS
+6063,1370,847,1797,0.76,0.47,Commercials,0,1,0,1,Insecured land tenure,Covered pucca drain,Sewerage/ FSM
+6065,6013,451,1607,3.74,0.28,Office,0,0,0,1,Insecured land tenure,Katcha drain,SewerageS
+6067,16976,228,1965,8.64,0.12,Education centre,1,1,0,0,non critical,Katcha drain,DEWATS
+6069,4079,1151,1790,2.28,0.64,Commercials,1,1,1,0,Insecured land tenure,Unserved area,Sewerage/ FSM
+6071,4038,439,1080,3.74,0.41,Office,0,0,1,0,non critical,Covered pucca drain,DEWATS
+6073,3143,620,1880,1.67,0.33,Commercials,1,0,1,0,Insecured land tenure,Unserved area,Sewerage/ FSM
+6075,6974,1561,517,13.49,3.02,Residential ,0,1,1,1,non critical,Katcha drain,DEWATS
+6077,14764,1610,828,17.83,1.94,Office,0,1,1,0,non critical,Covered pucca drain,SewerageS
+6079,19364,1852,847,22.86,2.19,Commercials,0,1,0,0,Critical ,Unserved area,DEWATS
+6081,9876,638,1898,5.20,0.34,Residential ,1,0,0,1,non critical,Katcha drain,SewerageS
+6083,5354,1013,723,7.41,1.40,Residential ,0,1,0,1,Critical ,Katcha drain,DEWATS
+6085,10273,730,51,201.43,14.31,Commercials,1,1,1,1,Critical ,Katcha drain,Sewerage/ FSM
+6087,12822,807,80,160.28,10.09,Education centre,1,0,1,1,Critical ,Pucca drain and uncovered ,FSM
+6089,5072,1278,462,10.98,2.77,Residential ,1,0,1,0,Insecured land tenure,Katcha drain,Sewerage/ FSM
+6091,5016,915,756,6.63,1.21,Office,0,0,1,0,Critical ,Pucca drain and uncovered ,Sewerage/DEWATS
+6093,17286,252,842,20.53,0.30,Commercials,0,0,1,1,Critical ,Unserved area,FSM
+6095,2077,1472,1634,1.27,0.90,Commercials,1,1,0,0,Critical ,Unserved area,FSM
+6097,1362,1176,279,4.88,4.22,Residential ,1,0,1,0,Critical ,Katcha drain,FSM
+6099,12846,1981,211,60.88,9.39,Education centre,0,0,1,0,Critical ,Unserved area,DEWATS
+6101,7161,814,1390,5.15,0.59,Commercials,1,1,1,1,non critical,Katcha drain,Sewerage/ FSM
+6103,5831,1515,122,47.80,12.42,Education centre,0,0,1,1,non critical,Katcha drain,SewerageS
+6105,6159,1700,903,6.82,1.88,Office,1,1,0,0,Critical ,Pucca drain and uncovered ,FSM
+6107,5849,551,3,1949.67,183.67,Education centre,0,1,0,0,Critical ,Pucca drain and uncovered ,Sewerage/ FSM
+6109,2464,419,312,7.90,1.34,Education centre,0,0,1,1,non critical,Covered pucca drain,Sewerage/ FSM
+6111,12508,814,160,78.18,5.09,Education centre,1,1,0,0,Critical ,Covered pucca drain,Sewerage/DEWATS
+6113,16437,1065,109,150.80,9.77,Office,0,0,1,0,Insecured land tenure,Pucca drain and uncovered ,FSM
+6115,3772,1656,347,10.87,4.77,Residential ,0,1,0,1,non critical,Unserved area,SewerageS
+8001,8295,140,269,30.84,0.52,Commercials,0,0,1,1,Critical ,Pucca drain and uncovered ,Sewerage/ FSM
+8003,8880,1125,1263,7.03,0.89,Education centre,1,0,0,1,Insecured land tenure,Pucca drain and uncovered ,SewerageS
+8005,2666,543,769,3.47,0.71,Commercials,0,1,1,1,Insecured land tenure,Katcha drain,Sewerage/ FSM
+8007,8818,1805,1864,4.73,0.97,Commercials,0,1,0,0,Critical ,Katcha drain,Sewerage/DEWATS
+8009,11863,1894,1331,8.91,1.42,Commercials,0,1,1,1,Insecured land tenure,Covered pucca drain,SewerageS
+8011,12497,802,1712,7.30,0.47,Commercials,1,0,0,0,Critical ,Covered pucca drain,Sewerage/ FSM
+8013,9121,292,1864,4.89,0.16,Commercials,0,0,0,0,Critical ,Katcha drain,Sewerage/DEWATS
+8014,19747,1714,1188,16.62,1.44,Office,0,1,1,0,non critical,Covered pucca drain,SewerageS
+8015,5331,1468,877,6.08,1.67,Residential ,1,1,0,0,Insecured land tenure,Covered pucca drain,Sewerage/ FSM
+8017,4887,1235,1978,2.47,0.62,Education centre,0,1,1,1,Insecured land tenure,Unserved area,DEWATS
+8019,9766,1824,754,12.95,2.42,Office,1,1,0,1,Critical ,Covered pucca drain,DEWATS
+8021,13376,1636,663,20.17,2.47,Office,1,0,1,0,non critical,Pucca drain and uncovered ,DEWATS
+8023,6369,1609,1326,4.80,1.21,Office,0,1,0,0,Critical ,Covered pucca drain,Sewerage/DEWATS
+8025,15521,1693,979,15.85,1.73,Residential ,0,1,1,0,non critical,Unserved area,DEWATS
+8027,6498,1563,1900,3.42,0.82,Education centre,0,1,0,0,Critical ,Unserved area,FSM
+8029,9551,278,740,12.91,0.38,Office,0,1,0,0,non critical,Pucca drain and uncovered ,Sewerage/ FSM
+8031,11365,1528,1878,6.05,0.81,Office,0,0,1,0,Critical ,Unserved area,DEWATS
+8033,701,1221,18,38.94,67.83,Commercials,0,1,0,1,Insecured land tenure,Unserved area,SewerageS
+8035,1811,654,496,3.65,1.32,Education centre,1,0,1,1,non critical,Unserved area,DEWATS
+8037,13596,1623,533,25.51,3.05,Office,1,1,0,0,Insecured land tenure,Katcha drain,SewerageS
+8039,1693,362,106,15.97,3.42,Education centre,1,1,1,0,Critical ,Katcha drain,Sewerage/DEWATS
+8041,19021,1529,301,63.19,5.08,Commercials,1,0,0,1,non critical,Katcha drain,DEWATS
+8043,8913,1744,1559,5.72,1.12,Education centre,1,0,1,1,Insecured land tenure,Unserved area,FSM
+8045,17006,1262,128,132.86,9.86,Office,0,0,0,0,Critical ,Pucca drain and uncovered ,SewerageS
+8047,7613,1712,1257,6.06,1.36,Commercials,0,1,0,1,Critical ,Pucca drain and uncovered ,SewerageS
+8049,13557,1003,1890,7.17,0.53,Education centre,1,0,1,0,Insecured land tenure,Pucca drain and uncovered ,SewerageS
+8051,19136,1201,1311,14.60,0.92,Office,1,1,1,1,Critical ,Unserved area,Sewerage/DEWATS
+8053,1118,600,1754,0.64,0.34,Residential ,1,0,1,1,Critical ,Covered pucca drain,DEWATS
+8055,17530,366,1704,10.29,0.21,Office,0,1,1,1,non critical,Katcha drain,Sewerage/DEWATS
+8057,14323,1625,184,77.84,8.83,Office,1,1,0,0,Critical ,Unserved area,Sewerage/DEWATS
+8059,8898,362,1946,4.57,0.19,Residential ,1,0,1,0,Insecured land tenure,Pucca drain and uncovered ,Sewerage/DEWATS
+8061,5219,1215,1557,3.35,0.78,Education centre,1,1,0,1,non critical,Pucca drain and uncovered ,FSM
+8063,8503,1300,1871,4.54,0.69,Education centre,1,0,0,1,Insecured land tenure,Katcha drain,DEWATS
+8065,12466,428,1949,6.40,0.22,Office,1,1,0,0,Insecured land tenure,Pucca drain and uncovered ,DEWATS
+8067,358,21,754,0.47,0.03,Education centre,0,1,0,1,Insecured land tenure,Unserved area,DEWATS
+8069,13349,1710,343,38.92,4.99,Education centre,0,1,0,1,Insecured land tenure,Katcha drain,DEWATS
+8071,8156,1151,1797,4.54,0.64,Residential ,0,1,0,0,Insecured land tenure,Pucca drain and uncovered ,SewerageS
+8073,7128,1537,1970,3.62,0.78,Education centre,0,1,1,1,non critical,Pucca drain and uncovered ,DEWATS
+8075,17759,1849,911,19.49,2.03,Residential ,1,0,1,0,non critical,Katcha drain,Sewerage/ FSM
+8077,6470,973,1118,5.79,0.87,Residential ,0,1,1,0,Critical ,Covered pucca drain,DEWATS
+8079,9809,31,628,15.62,0.05,Office,0,0,0,0,non critical,Pucca drain and uncovered ,Sewerage/DEWATS
+8081,9346,1121,1264,7.39,0.89,Residential ,1,0,1,0,non critical,Katcha drain,DEWATS
+8083,10038,423,1802,5.57,0.23,Education centre,0,1,1,0,non critical,Unserved area,FSM
+8085,4462,689,987,4.52,0.70,Education centre,1,1,1,0,Critical ,Katcha drain,FSM
+8087,16716,1698,1135,14.73,1.50,Residential ,1,0,0,1,Insecured land tenure,Katcha drain,FSM
+8089,16868,1984,660,25.56,3.01,Residential ,0,0,1,0,non critical,Unserved area,DEWATS
+8091,272,1000,1230,0.22,0.81,Commercials,1,0,0,0,Critical ,Katcha drain,FSM
+8093,9120,1839,1065,8.56,1.73,Office,0,0,0,1,non critical,Unserved area,DEWATS
+8095,18407,1622,1990,9.25,0.82,Education centre,1,0,0,0,Critical ,Covered pucca drain,SewerageS
+8097,4771,1803,1663,2.87,1.08,Residential ,1,1,1,0,Insecured land tenure,Pucca drain and uncovered ,DEWATS
+8099,17701,124,822,21.53,0.15,Residential ,0,1,0,0,non critical,Covered pucca drain,DEWATS
+8101,4058,345,717,5.66,0.48,Residential ,1,1,0,0,Critical ,Covered pucca drain,DEWATS
+8103,15014,1318,1967,7.63,0.67,Commercials,0,1,0,1,Critical ,Katcha drain,FSM
+8105,15200,831,1143,13.30,0.73,Office,1,1,1,0,non critical,Unserved area,SewerageS
+8107,16871,1390,1421,11.87,0.98,Residential ,0,1,1,0,non critical,Unserved area,DEWATS
+8109,13069,1351,1489,8.78,0.91,Commercials,0,1,1,0,Insecured land tenure,Covered pucca drain,Sewerage/ FSM
+8111,18680,1881,279,66.95,6.74,Education centre,1,0,0,0,Insecured land tenure,Covered pucca drain,Sewerage/DEWATS
+8113,9365,1884,1931,4.85,0.98,Education centre,1,1,1,1,Critical ,Pucca drain and uncovered ,DEWATS
+8115,16103,900,1354,11.89,0.66,Commercials,0,1,1,0,non critical,Unserved area,Sewerage/DEWATS
+8117,14957,1273,530,28.22,2.40,Education centre,0,0,1,0,non critical,Katcha drain,DEWATS
+8119,8951,724,732,12.23,0.99,Office,0,1,1,1,non critical,Katcha drain,DEWATS
+8121,12316,374,1720,7.16,0.22,Residential ,0,0,0,0,Critical ,Katcha drain,FSM
+8123,1112,560,1785,0.62,0.31,Residential ,1,0,1,0,Critical ,Unserved area,Sewerage/DEWATS
+8125,19577,594,151,129.65,3.93,Education centre,0,0,1,1,Critical ,Katcha drain,Sewerage/DEWATS
+9001,15025,1954,497,30.23,3.93,Residential ,0,0,0,1,Critical ,Unserved area,Sewerage/DEWATS
+9003,760,1975,1164,0.65,1.70,Residential ,0,0,1,0,non critical,Unserved area,DEWATS
+9005,8548,153,1956,4.37,0.08,Commercials,0,0,0,1,Critical ,Pucca drain and uncovered ,DEWATS
+9007,3294,1520,1010,3.26,1.50,Commercials,0,1,1,0,Insecured land tenure,Pucca drain and uncovered ,FSM
+9009,4952,1273,1077,4.60,1.18,Education centre,0,0,1,0,non critical,Katcha drain,DEWATS
+9011,12883,810,1517,8.49,0.53,Education centre,0,0,0,1,Insecured land tenure,Katcha drain,FSM
+9013,3394,800,1002,3.39,0.80,Education centre,1,1,0,0,Insecured land tenure,Covered pucca drain,FSM
+9015,13614,75,1297,10.50,0.06,Office,0,0,1,0,non critical,Pucca drain and uncovered ,DEWATS
